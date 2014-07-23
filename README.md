@@ -1,9 +1,8 @@
 BattlefieldWebDesign
 ====================
 All of the code for Battlefield Web Design's landing page.
-<br>
-Includes:
-
+<br></br>
+Includes:<br>
 html 
 css <br>
 javascript <br>
